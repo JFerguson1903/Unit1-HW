@@ -16,7 +16,7 @@ The additional acceptance criteria was as follows:
 
 - WHEN I view the heading attributes THEN they fall in sequential order
 
-- WHEN I view the title element THEN I find a concise, descriptive title"
+- WHEN I view the title element THEN I find a concise, descriptive title
 
 I modified the original code provided by adding alt tags to images, renaming div tags to be more descriptive, repairing broken links, reorganzing the CSS so that each selectors properties were alphabatized, condensed the CSS, spaced the HTML for ease of use and reorganized the code to follow a logical structure of the page.  Comments were also added to both the HTML & CSS in order to identify items faster.
 

@@ -6,17 +6,22 @@ I was given the assignment through Triliogy/WASHU Coding Bootcamp to modify HTML
 
 The additional acceptance criteria was as follows:
 
-"GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title"
+- GIVEN a webpage meets accessibility standards
+
+- WHEN I view the source code
+- THEN I find semantic HTML elements
+
+- WHEN I view the structure of the HTML elements
+- THEN I find that the elements follow a logical structure independent of styling and positioning
+
+- WHEN I view the image elements
+- THEN I find accessible alt attributes
+
+- WHEN I view the heading attributes
+- THEN they fall in sequential order
+
+- WHEN I view the title element
+- THEN I find a concise, descriptive title"
 
 I modified the original code provided by adding alt tags to images, renaming div tags to be more descriptive, repairing broken links, reorganzing the CSS so that each selectors properties were alphabatized, condensed the CSS, spaced the HTML for ease of use and reorganized the code to follow a logical structure of the page.  Comments were also added to both the HTML & CSS in order to identify items faster.
 
